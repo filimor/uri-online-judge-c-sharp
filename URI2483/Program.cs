@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace URI2483
+namespace uri2483
 {
     internal static class FelizNataaal
     {

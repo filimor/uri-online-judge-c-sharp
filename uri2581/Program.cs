@@ -10,7 +10,7 @@ namespace uri2581
             for (int i = 0; i < n; i++)
             {
                 Console.ReadLine();
-                Console.WriteLine("I am a Toorg!");
+                Console.WriteLine("I am Toorg!");
             }
         }
     }
