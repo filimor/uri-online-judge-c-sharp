@@ -6,9 +6,10 @@ namespace uri1936
     {
         private static void Main()
         {
-            
+            int.TryParse(Console.ReadLine(), out int n);
         }
-        private static int CalculaFatorial(int x)
+
+        private static int CalcularFatorial(int x)
         {
             int resultado = 1;
             for (int i = 1; i <= x; i++)
