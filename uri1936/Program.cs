@@ -1,22 +1,40 @@
 ﻿using System;
 
-namespace uri1936
+namespace uri1936 // Fatorial
 {
-    internal static class Fatorial
+    internal static class Program
     {
-        //private static void Main()
-        //{
-        //    int.TryParse(Console.ReadLine(), out int n);
-        //}
+        private static void Main()
+        {
+            int.TryParse(Console.ReadLine(), out int n);
+            for (int i = 1; ; i++)
+            {
+                int teste = 0;
+                for (int j = 1; j<n; j++)
+                {
+                    int temp = teste;
+                    teste += Fatorial(j);
+                    if (teste == n)
+                    {
+                        Console.WriteLine(teste);
+                        return;
+                    }else if (teste > n)
+                    {
+                        teste = temp;
+                        break;
+                    }
+                }
+            }
+        }
 
-        //private static int CalcularFatorial(int x)
-        //{
-        //    int resultado = 1;
-        //    for (int i = 1; i <= x; i++)
-        //    {
-        //        resultado *= i;
-        //    }
-        //    return resultado;
-        //}
+        private static int Fatorial(int x)
+        {
+            int resultado = 1;
+            for (int n = 1; n <= x; n++)
+            {
+                resultado *= n;
+            }
+            return resultado;
+        }
     }
 }
