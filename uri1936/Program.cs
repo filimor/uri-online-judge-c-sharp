@@ -12,7 +12,7 @@ namespace uri1936 // Fatorial
                 int teste = 0;
                 for (int j = 1; j<n; j++)
                 {
-                    int temp = teste;
+                    //int temp = teste;
                     teste += Fatorial(j);
                     if (teste == n)
                     {
@@ -20,7 +20,7 @@ namespace uri1936 // Fatorial
                         return;
                     }else if (teste > n)
                     {
-                        teste = temp;
+                        //teste = temp;
                         break;
                     }
                 }
