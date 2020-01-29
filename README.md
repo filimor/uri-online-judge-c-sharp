@@ -18,7 +18,7 @@ There's no need to install. All the projects of the VS Solution are small Consol
 
 ## Usage
 
-Project problems are separated by category. Each directory corresponds to the same main cateogory of the site. Just browse into that folder and look for the project by number.
+Project problems are separated into categories. Each directory corresponds to the same main cateogory of the site. Just browse through this folder and search the project by number.
 
 ## Build With
 
@@ -31,12 +31,12 @@ Check out the [contribution guidelines](https://github.com/filimor/uri-online-ju
 
 ## Credits
 
-- All the problems by [URI Online Judge](https://www.urionlinejudge.com.br) Problems & Contest
+- All problems by [URI Online Judge](https://www.urionlinejudge.com.br) Problems & Contest
 - All solutions coded by @filimor
 
 ## Contact
 
-- E-mail: filimor@posteo.com.br
+- E-mail: filimor@posteo.net
 - LinkedIn: https://www.linkedin.com/in/filimor/
 - Twitter: https://www.twitter.com/filimorbr/
 
