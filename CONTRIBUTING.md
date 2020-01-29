@@ -161,7 +161,7 @@ included in the project:
   
 ## Attributions
 
-This Contribute Guide is adapted from @guudan 's Contributing Guide,
+This Contribute Guide is adapted from Maciej Gudanowicz's (@guudan) Contributing Guide,
 available at https://github.com/guudan/Vs-AddMultipleProjectsToSolution/blob/master/CONTRIBUTING.md
 
 
