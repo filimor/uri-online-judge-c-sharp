@@ -9,13 +9,13 @@
 
 A repository of solutions for the URI Online Judge problems using C# language.
 
-**Screenshot**
+**Screenshot of the official website**
 
 ![](uri.gif "Screenshot")
 
 ## Description
 
-This repository is built as problems are solved at the site. URI Online Judge Problems and Contests has more than 2000 problems and 9 main categories. It's supports many languages (including C, C++, C#, Go, Haskell, Java, JavaScript, Kotlin, Lua, Pascal, Python, Ruby and Scala) and is very useful to practice and learn programming.
+This repository is built as problems are solved on the site. URI Online Judge Problems and Contests has over 2000 problems and 9 main categories. It supports many languages (including C, C++, C#, Go, Haskell, Java, JavaScript, Kotlin, Lua, Pascal, Python, Ruby and Scala) and is very useful to practicing and learning programming principles and algotithms.
 
 ## Installation
 
