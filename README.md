@@ -11,7 +11,7 @@ A repository of solutions for the URI Online Judge problems using C# language.
 
 **Screenshot**
 
-[![](uri.gif "Screenshot")]
+![](uri.gif "Screenshot")
 
 ## Description
 
