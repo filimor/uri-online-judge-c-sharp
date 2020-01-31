@@ -4,7 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/filimor/uri-online-judge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/filimor/uri-online-judge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/filimor/uri-online-judge)
-![GitHub](https://img.shields.io/github/license/filimor/rolling-ball)
+![GitHub](https://img.shields.io/github/license/filimor/uri-online-judge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/filimor/uri-online-judge)
 
 A repository of solutions for the URI Online Judge problems using C# language.
