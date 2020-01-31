@@ -1,16 +1,21 @@
 # URI Online Judge
 
-TODO: Badges
+![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/filimor/uri-online-judge)
+![GitHub repo size](https://img.shields.io/github/repo-size/filimor/uri-online-judge)
+![GitHub issues](https://img.shields.io/github/issues-raw/filimor/uri-online-judge)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/filimor/uri-online-judge)
+![GitHub](https://img.shields.io/github/license/filimor/rolling-ball)
+![GitHub last commit](https://img.shields.io/github/last-commit/filimor/uri-online-judge)
 
 A repository of solutions for the URI Online Judge problems using C# language.
 
 **Screenshot**
 
-[![](https://imgur.com/ "Screenshot")]
+[![](uri.gif "Screenshot")]
 
 ## Description
 
-TODO
+This repository is built as problems are solved at the site. URI Online Judge Problems and Contests has more than 2000 problems and 9 main categories. It's supports many languages (including C, C++, C#, Go, Haskell, Java, JavaScript, Kotlin, Lua, Pascal, Python, Ruby and Scala) and is very useful to practice and learn programming.
 
 ## Installation
 
@@ -28,6 +33,10 @@ Project problems are separated into categories. Each directory corresponds to th
 ## Contributing
 
 Check out the [contribution guidelines](https://github.com/filimor/uri-online-judge/blob/master/CONTRIBUTING.md) and follow our [code of conduct](https://github.com/filimor/uri-online-judge/blob/master/CODE_OF_CONDUCT.md) if you want to contribute to this project.
+
+## Translations
+
+TODO
 
 ## Credits
 
