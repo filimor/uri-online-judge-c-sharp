@@ -1,0 +1,25 @@
+﻿Oliveira é um menino que ama jogos online. Um de seus preferidos é o “A Vida Sustentável”, no qual controla um boneco que deve viver uma vida sustentável, seguindo ações diárias que não comprometam a sustentabilidade do seu mundo. Ele é o único personagem do jogo, pois o objetivo do mesmo é mostrar o quão nossas atividades afetam o mundo a nossa volta. 
+Dentre as principais atividades realizadas no jogo, ele pode comer uma variedade de alimentos e utilizar alguns tipos de veículos. Essas duas atividades comprometem dois indicadores do seu mundo, quantidade de água utilizável restante (com relação a sua alimentação) e quantidade de gases que a camada de ozônio pode suportar (com relação aos seus meios de transporte), porém garantem nutrição ou velocidade ao seu personagem.
+Para este problema, utilizaremos as seguintes tabelas, que relacionam alimentos a consumo de água e veículos a emissão de gases, além de incluir a nutrição de cada alimento e a velocidade de cada veículo:
+
+Oliveira percebeu que havia um custo benefício para cada alimento e veículo. Por exemplo, o custo benefício do Carro seria -20, pois emite 100 de gás, mas proporciona 80 de velocidade e do Milho seria 650, pois consome 450 de água, mas proporciona 1000 de nutrição.
+Um dia neste jogo tem N horas, e o jogador pode jogar por até N horas o jogo. Oliveira começa sempre jogando em alguma hora aleatória do dia de ocorrência do jogo e termina de jogar após algumas horas, não mais que N, e em cada hora jogada, seu personagem ou comia ou utilizava um veículo.
+Exemplo, se o jogo tiver 10 horas, Oliveira poderia começar pela hora 7 e jogar até a hora 6, podendo parar antes.
+Após observar um relatório de suas ações, gostaria de saber qual o valor dos intervalos (segmento contínuo do vetor) de tempo que teve um maior e um menor custo benefício, para que analise esses intervalos e tente equilibrar melhor suas ações na próxima vez que for jogar. As horas que Oliveira não joga não devem ser consideradas para a solução, caso haja apenas horas em que não jogou, a resposta é 0 0.
+Entrada
+
+A primeira linha da entrada contém um inteiro N(0 < N ≤ 100000) que indica a quantidade de horas de um dia no jogo. A seguir, seguem N caracteres indicando as ações de Oliveira para cada hora.
+Cada caractere poderá ser:
+● A, para Arroz;
+● C, para Carne;
+● S, para Soja;
+● P, para Plockt;
+● M, para Milho;
+● K, para Carro;
+● B, para Bicicleta
+● N, quando, nesta hora, Oliveira não jogou.
+
+Basicamente, o que marca a primeira hora jogada é a primeira ocorrência de um caractere que não seja ‘N’ , após um que seja ou se a primeira hora já não for ‘N’.
+Saída
+
+2 inteiros, indicando o valor do maior intervalo de custo benefício, e do menor intervalo de custo benefício, respectivamente.
