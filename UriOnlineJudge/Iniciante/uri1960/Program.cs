@@ -73,7 +73,7 @@ namespace uri1960 // Numeração Romana para Números de Página
             };
         }
 
-        // Pre-C# 8 funcion version:
+        // Pre-C# 8 function version:
         //private static string Romano(int algarismo, char posicao)
         //{
         //    switch (posicao)
