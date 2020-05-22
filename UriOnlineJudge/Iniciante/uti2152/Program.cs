@@ -14,7 +14,8 @@ namespace uri2152 // Pepe, Já Tirei a Vela!
                 int.TryParse(str[1], out int m);
                 int.TryParse(str[2], out int o);
 
-                Console.Write($"{h.ToString("00")}:{m.ToString("00")} - A porta ");
+                //Console.Write($"{h.ToString("00")}:{m.ToString("00")} - A porta ");
+                Console.Write($"{h:00}:{m:00} - A porta ");
                 Console.WriteLine((o == 1) ? "abriu!" : "fechou!");
             }
         }
