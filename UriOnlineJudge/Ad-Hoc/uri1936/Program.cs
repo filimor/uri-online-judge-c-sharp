@@ -7,34 +7,29 @@ namespace uri1936 // Fatorial
         private static void Main()
         {
             int.TryParse(Console.ReadLine(), out int n);
-            for (int i = 1; ; i++)
+            int maiorFatorial = 1;
+            int k;
+
+            for (k = 0; n > 0; k++)
             {
-                int teste = 0;
-                for (int j = 1; j<n; j++)
+                for (int i = 1; i <= n; i++)
                 {
-                    //int temp = teste;
-                    teste += Fatorial(j);
-                    if (teste == n)
+                    int x = Fatorial(i);
+                    if (x > n)
                     {
-                        Console.WriteLine(teste);
-                        return;
-                    }else if (teste > n)
-                    {
-                        //teste = temp;
                         break;
                     }
+                    maiorFatorial = x;
                 }
+                n -= maiorFatorial;
             }
+
+            Console.WriteLine(k);
         }
 
         private static int Fatorial(int x)
         {
-            int resultado = 1;
-            for (int n = 1; n <= x; n++)
-            {
-                resultado *= n;
-            }
-            return resultado;
+            return x == 0 ? 1 : x * Fatorial(x - 1);
         }
     }
 }
