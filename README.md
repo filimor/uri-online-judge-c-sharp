@@ -1,5 +1,7 @@
 # URI Online Judge
 
+> A repository of solutions for the URI Online Judge problems using C# language.
+
 ![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/filimor/uri-online-judge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/filimor/uri-online-judge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/filimor/uri-online-judge)
@@ -7,7 +9,7 @@
 ![GitHub](https://img.shields.io/github/license/filimor/uri-online-judge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/filimor/uri-online-judge)
 
-A repository of solutions for the URI Online Judge problems using C# language.
+*Read it in other languages:* [English](https://github.com/filimor/uri-online-judge/blob/master/README.md), [Português (Brasil)](https://github.com/filimor/uri-online-judge/blob/master/README.pt-br.md)
 
 **Screenshot of the official website**
 
@@ -25,10 +27,13 @@ There's no need to install. All the projects of the VS Solution are small Consol
 
 Project problems are separated into categories. Each directory corresponds to the same main cateogory of the site. Just browse through this folder and search the project by number.
 
+Although the repository name and readme follow the open source language convention (english), the problems descriptions, variables and console messages are all in portuguese.
+
 ## Build With
 
-- Microsoft Visual Studio 2019 Community Edition
-- uDebug (https://www.udebug.com/)
+- [Microsoft Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/vs/community/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [uDebug](https://www.udebug.com/)
 
 ## Contributing
 
@@ -36,21 +41,21 @@ Check out the [contribution guidelines](https://github.com/filimor/uri-online-ju
 
 ## Translations
 
-TODO
+* [English](https://github.com/filimor/uri-online-judge/blob/master/README.md)
+* [Português (Brasil)](https://github.com/filimor/uri-online-judge/blob/master/README.pt-br.md)
 
 ## Credits
 
 - All problems by [URI Online Judge](https://www.urionlinejudge.com.br) Problems & Contest
-- All solutions coded by @filimor
+- All solutions coded by [@filimor](https://github.com/filimor)
 
 ## Contact
 
 - E-mail: filimor@posteo.net
 - LinkedIn: https://www.linkedin.com/in/filimor/
 - Twitter: https://www.twitter.com/filimorbr/
+- URI Profile: https://www.urionlinejudge.com.br/judge/pt/users/statistics/353923
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/filimor/rollin-ball/blob/master/README.md "MIT") file for details.
-
-
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/filimor/uri-online-judge/blob/master/LICENSE "MIT") file for details.
