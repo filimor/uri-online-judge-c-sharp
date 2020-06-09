@@ -51,6 +51,6 @@ TODO
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/filimor/rollin-ball/blob/master/README.md "MIT") file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/filimor/rollin-ball/blob/master/README.md "MIT") file for details.
 
 
