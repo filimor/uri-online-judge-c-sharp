@@ -11,9 +11,7 @@
 
 *Read it in other languages:* [English](https://github.com/filimor/uri-online-judge/blob/master/README.md), [Português (Brasil)](https://github.com/filimor/uri-online-judge/blob/master/README.pt-br.md)
 
-**Screenshot of the official website**
-
-![](uri.gif "Screenshot")
+![Screenshot of the official website](uri.gif "Screenshot")
 
 ## Description
 
