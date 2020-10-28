@@ -1,3 +1,5 @@
+:warning: Atenção! Este repositório está sendo substituído gradativamente pelo [https://github.com/filimor/uri-online/](https://github.com/filimor/uri-online-judge/)
+
 # URI Online Judge
 
 > A repository of solutions for the URI Online Judge problems using C# language.
